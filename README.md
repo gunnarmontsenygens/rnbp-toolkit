@@ -78,8 +78,8 @@ The Restricted N-Body toolkit builds upon this foundation by introducing a massl
 This toolkit complements
 
 - N-Body Problem in Jacobi Coordinates Toolkit
-- Central Configurations Toolbox
-- Three-Body Problem in Jacobi Coordinates Toolbox
+- Central Configurations Toolkit
+- Three-Body Problem in Jacobi Coordinates Toolkit
 
 ---
 
