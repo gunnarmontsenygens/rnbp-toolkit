@@ -88,6 +88,7 @@ This toolkit complements
 The implementation follows the notation and derivations presented in
 
 - ASEN 6062 – Celestial Mechanics
+- 'Jacobi_Notation-pdf'
 - Lecture Notes: *The N-Body Problem*
 - Lecture Notes: *Jacobi Coordinates*
 - Lecture Notes: *Restricted Full N-Body Problem*
